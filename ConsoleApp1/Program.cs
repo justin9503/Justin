@@ -39,7 +39,7 @@ class GFG
         }
         else
         {
-            Console.WriteLine("Rectangles Don't Overlap");
+            Console.WriteLine("Rectangles Do not Overlap");
         }
     }
 }
